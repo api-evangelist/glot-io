@@ -1,0 +1,44 @@
+{
+    "name": "glot.io",
+    "description": "<p>glot.io lets you run and share snippets. Snippets can be saved as either public or secret. Public snippets will show up in \/snippets and will be found by search engines. Secret snippets can only be accessed by those who know the url. Code is executed inside a temporary container without a network connection. Execution time is limited to 15 seconds and the output can not exceed 100KiB.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/glot-io-logo.png",
+    "tags": [
+        "api provider",
+        "api service provider",
+        "have api",
+        "pastebin",
+        "serverless",
+        "snippets"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/glot-io\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "glot.io",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/glot-io-logo.png",
+            "humanURL": "https:\/\/glot.io\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/glot-io-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/glotcode"
+        },
+        {
+            "type": "Website",
+            "url": "https:\/\/glot.io\/"
+        }
+    ]
+}
